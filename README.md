@@ -33,4 +33,6 @@ La ejecución del proyecto se puede realizar en el notebook de Google colab
 
 ## Autor
 **Octavio Márquez Luna**
+
+Correo
 [octavio.marlu@gmail.com](mailto:octavio.marlu@gmail.com)
