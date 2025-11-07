@@ -30,3 +30,7 @@ La ejecución del proyecto se puede realizar en el notebook de Google colab
 ## Conclusiones
  - Se identificaron que las ttiendas 1 y 4 tendrían una mayor posibilidad de venderse.
  - Debido a los ingresos, calificaciones y productos vendidos se determina que la tienda a venderse sea la **Tienda 4**
+
+## Autor
+**Octavio Márquez Luna**
+[octavio.marlu@gmail.com](mailto:octavio.marlu@gmail.com)
