@@ -24,3 +24,5 @@ La ejecución del proyecto se puede realizar en el notebook de Google colab
 
 ## Resultados
 ![Ingresos por tienda](imagenes/Ingresos.png)
+![Calificacion promedio](imagenes/Promedio_calificacion.png)
+![Ingresos por tienda](imagenes/Gasto_envio.png)
