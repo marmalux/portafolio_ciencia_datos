@@ -23,4 +23,4 @@ La ejecución del proyecto se puede realizar en el notebook de Google colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marmalux/portafolio_ciencia_datos/blob/main/AluraStoreLatam.ipynb)
 
 ## Resultados
-![Ingresos por tienda](imagenes/ingresos.png)
+![Ingresos por tienda](imagenes/Ingresos.png)
