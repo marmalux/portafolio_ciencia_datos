@@ -9,7 +9,7 @@ Este proyecto utiliza Python y librerías que procesan nuestros datos de los dat
 * Pandas
 * De Matplotlip su módulo pyplot
 
-# Datasets
+## Datasets
 Proporcionados para su análisis
 ```
 url = "https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_1%20.csv"
@@ -17,7 +17,10 @@ url2 = "https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-scienc
 url3 = "https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_3.csv"
 url4 = "https://raw.githubusercontent.com/alura-es-cursos/challenge1-data-science-latam/refs/heads/main/base-de-datos-challenge1-latam/tienda_4.csv"
 ```
-# Ejecución
+## Ejecución
 La ejecución del proyecto se puede realizar en el notebook de Google colab
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/marmalux/portafolio_ciencia_datos/blob/main/AluraStoreLatam.ipynb)
 
+## Resultados
+![Ingresos por tienda](imagenes/ingresos.png)
